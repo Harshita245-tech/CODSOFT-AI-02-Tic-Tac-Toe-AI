@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import math
 
 # Constants for players
@@ -130,7 +124,7 @@ def start_game():
 start_game()
 
 
-# In[ ]:
+
 
 
 
